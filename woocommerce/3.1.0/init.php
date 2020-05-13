@@ -87,7 +87,7 @@ add_action('admin_menu', function () {
 
                     <tr>
                         <td colspan="2">
-                            <h5>Wallet ID for currency</h5>
+                            <h5>Wallet ID for currency,The currency configuration of woocommerce needs to be consistent with the wallet currency</h5>
                         </td>
                     </tr>
 
